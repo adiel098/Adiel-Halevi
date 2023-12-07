@@ -5,6 +5,7 @@ CS Student | Passionate Developer & Crypto Explorer 🚀🔗
 ## 🛠️ Skills 
 - Python 🐍
 - SQL 🗃️
+- Flutter & Dart 💙
 - JavaScript 💻
 - Java ☕
 - C# 🌐
