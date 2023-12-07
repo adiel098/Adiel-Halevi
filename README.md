@@ -23,7 +23,7 @@ I specialize in crafting tools that seamlessly blend technology
 with the exciting realms of Telegram bots and the crypto universe. 🚀💬🔗
 
 ## 🌐 Let's Connect!
-- 💼 [LinkedIn]((https://www.linkedin.com/in/adiel-halevi/))
+- 💼 [LinkedIn]([Your LinkedIn Profile URL](https://www.linkedin.com/in/adiel-halevi/))
 
 
 Feel free to explore my repositories and embark on this coding journey together! 🌟
