@@ -17,7 +17,7 @@ CS Student | Passionate Developer & Crypto Explorer 🚀🔗
 - RESTful APIs 🔄
 - Firebase 🔥
 - And more...
-- 
+  
 ## 💡 Passion Projects
 In the realm of code, I find my joy in bringing personal projects to life. 
 I specialize in crafting tools that seamlessly blend technology 
